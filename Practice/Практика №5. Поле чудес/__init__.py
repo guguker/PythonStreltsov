@@ -1,1 +1,1 @@
-from .random_word import rand_word
+__all__ = ['game_components', 'words']
