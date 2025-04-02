@@ -40,3 +40,5 @@ for iter in sorted(list(dc.items()), key=lambda k: k[1], reverse=True):
     file.write(f'\n{iter[0]} | {itrnsl} | {iter[1]}')
 
 file.close()
+
+# history again ?
